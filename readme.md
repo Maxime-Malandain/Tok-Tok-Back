@@ -1,5 +1,3 @@
-![](./assets/image.png)
-
 # Cahier des charges
 
 - Sommaire
@@ -470,3 +468,6 @@ Table likes
     | GET | /messages |  | Afficher tous les messages de l’utilisateur | tableau d’objets |
     | GET | /messages/:id | L’id de la conversation | Afficher tous les messages de la conversation | tableau d’objets |
     | POST | /messages/:id | L’id de la conversation | Envoyer un message dans la conversation | objet |
+
+
+![](./assets/image.png)
